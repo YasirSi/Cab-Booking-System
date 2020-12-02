@@ -1,0 +1,17 @@
+.h2
+{
+    background-color: beige;
+}
+
+#table
+{
+    font-family:Verdana;
+    border:1px solid black;
+    margin-left: 25%;
+}
+
+td
+{
+    border:1px solid black;
+    padding: 20px;
+}

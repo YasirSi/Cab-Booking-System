@@ -1,0 +1,41 @@
+.pic
+{
+    background-image: url("../taxi.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.text_size
+{
+    font-size: 10px;
+}
+
+#calculate-fare,#book-now
+{
+    background-color: #d6f50a;
+}
+
+span
+{
+    border: 1px solid rgba(201, 219, 0, 1);
+    border-radius: 5px;
+    padding: 5px;
+	background-color: rgba(201, 219, 0, 1);
+}
+
+#display,#distance
+{
+    color: green;
+    font-size: 20px;
+}
+
+.msgstyle
+{
+    color: red;
+    font-size: 10px;
+}
+
+.custom-select
+{
+    background:none;
+}
