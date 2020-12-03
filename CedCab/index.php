@@ -49,14 +49,15 @@
             </button>
             <div class="collapse navbar-collapse" id="navbar_menu">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a href="login.php" class="nav-link">Login</a>
-                    </li>
+                    
                     <li class="nav-item">
                         <a href="signup.php" class="nav-link">Sign up</a>
                     </li>
                     <li class="nav-item">
-                        <a href="review.php" class="nav-link">Enquiry</a>
+                        <a href="review.php" class="nav-link">Reviews</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="login.php" class="nav-link">Login</a>
                     </li>
                 </ul>
             </div>     

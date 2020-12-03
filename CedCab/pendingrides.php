@@ -38,12 +38,8 @@
 
     <body>
         <header>
-            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-                <!-- Brand -->
-                <a href="customerDash.php" class="navbar-brand pl-5"><span class="bg-dark text-white diff">Ced</span><span class="text-white diff">Cab</span></a>
-                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar_menu">
-                    <span class="navbar-toggler-icon"></span>
-                </button>     
+            <nav class="navbar navbar-expand-sm bg-light navbar-light">
+                  
 
                 <!-- Links -->
                 <ul class="navbar-nav">
@@ -76,6 +72,11 @@
                     <li class="nav-item float-right">
                         <a class="nav-link" href="logout.php">LogOut</a>
                     </li>
+                     <!-- Brand -->
+                <a href="customerDash.php" class="navbar-brand pl-5"><span class="text-white diff">CedCab</span></a>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar_menu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>  
                 </ul>
             </nav>
         </header>

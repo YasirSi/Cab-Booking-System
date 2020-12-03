@@ -6,7 +6,7 @@
 .container 
 {
   border-radius: 5px;
-  background-color: #e4d1cf;
+  background-image: url("../taxi.jpg");
   padding: 20px;
   
 }

@@ -49,13 +49,8 @@
 
     <body>
         <header>
-            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-                <!-- Brand -->
-                <a href="customerDash.php" class="navbar-brand pl-5"><span class="text-white diff">CedCab</span></a>
-                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar_menu">
-                    <span class="navbar-toggler-icon"></span>
-                </button>     
-
+            <nav class="navbar navbar-expand-sm bg-light navbar-light">
+               
                 <!-- Links -->
                 <ul class="navbar-nav">
                 
@@ -73,6 +68,7 @@
                             <a class="dropdown-item" href="allrides.php">All Rides</a>
                         </div>
                     </li>
+                   
 
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -87,6 +83,12 @@
                     <li class="nav-item float-right">
                         <a class="nav-link" href="logout.php">LogOut</a>
                     </li>
+                      <!-- Brand -->
+                <a href="customerDash.php" class="navbar-brand pl-5"><span class="text-white diff">CedCab</span></a>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar_menu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>     
+
                 </ul>
             </nav>
         </header>

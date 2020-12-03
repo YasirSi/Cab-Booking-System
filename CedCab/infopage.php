@@ -38,13 +38,8 @@
 
     <body>
         <header>
-            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-                <!-- Brand -->
-                <a href="customerDash.php" class="navbar-brand pl-5"><span class="text-white diff">Ced Cab</span></a>
-                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar_menu">
-                    <span class="navbar-toggler-icon"></span>
-                </button>     
-
+            <nav class="navbar navbar-expand-sm bg-light navbar-light">
+                
                 <!-- Links -->
                 <ul class="navbar-nav">
                 
@@ -76,6 +71,12 @@
                     <li class="nav-item float-right">
                         <a class="nav-link" href="logout.php">LogOut</a>
                     </li>
+                    <!-- Brand -->
+                <a href="customerDash.php" class="navbar-brand pl-5"><span class="text-white diff">Ced Cab</span></a>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar_menu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>     
+
                 </ul>
             </nav>
         </header>
@@ -126,7 +127,7 @@
                     <i class="fab fa-twitter" aria-hidden="true" style="font-size:20px; color:black; margin-left: 5px;"></i>
                     <i class="fab fa-instagram" aria-hidden="true" style="font-size:20px; color:black; margin-left: 5px;"></i>
                 </div>
-
+                 
                 <div class="col-sm-4 text-center">
                     <span class="text-danger">CED CAB</span>
                 </div>
